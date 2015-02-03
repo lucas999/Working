@@ -1,1 +1,0 @@
-insert into user_ufb (name,info,tel,time,pinfo)  values("liu","≤ª∫√”√","18817337585",'2015-01-29 10:41:59',"sssssssedcdcf55788");
