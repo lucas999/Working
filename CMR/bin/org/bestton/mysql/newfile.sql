@@ -1,0 +1,1 @@
+select * from user_ufb where id='100';
